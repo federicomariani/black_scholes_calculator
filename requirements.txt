@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+plotly
+matplotlib
+black_scholes.py
+scipy
